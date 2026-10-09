@@ -1,46 +1,82 @@
-🚀 Project 10 of my 30 JavaScript Projects Challenge. – Music Player Web App
+# JavaScript Music Player Web App
 
-Continuing my 30 Projects JavaScript Challenge, I built a fully functional **Music Player Web App** using Vanilla JavaScript.
+Project 10 of my 30 JavaScript Projects Challenge.
 
-Tech Used:
-- HTML  
-- CSS  
-- Vanilla JavaScript  
+A fully functional Music Player Web App built using HTML, CSS, and Vanilla JavaScript that allows users to play music, navigate between tracks, control playback progress, and interact with a dynamic playlist.
 
+---
 
-Features:
-- Play / Pause functionality  
-- Forward & Backward controls  
-- Interactive progress bar with seek support  
-- Real-time current time & duration display  
-- Dynamic playlist with song switching  
-- Auto-play next song  
-- Animated rotating album art while playing  
-- Smooth UI with modern design & transitions  
-- Keyboard-accessible focus states  
+## Features
 
+- Play and pause functionality
+- Forward and backward controls
+- Interactive progress bar with seek support
+- Real-time playback time and duration display
+- Dynamic playlist with song switching
+- Automatic playback of the next song
+- Animated rotating album art during playback
+- Modern UI with smooth transitions
+- Keyboard-accessible focus states
 
-What I Learned:
-- Handling HTML5 Audio API  
-- Synchronizing UI with audio state  
-- Building dynamic UI using JavaScript objects  
-- Managing application state  
-- Creating smooth animations  
-- Improving UX with accessibility  
+---
 
+## Architecture Approach
 
-Next Improvements:
-- Upload & play local user files dynamically
-- Generate playlist dynamically from JavaScript (no hardcoded HTML)
-- Volume control & mute toggle
-- Dark mode support
-- Backend integration for streaming
+The application uses JavaScript to manage audio playback, synchronize the interface with audio events, and handle playlist interactions.
 
-Live
-(https://saurabh54e.github.io/Js-Project10-Music-Player/)
+- The HTML5 Audio API manages music playback
+- JavaScript event listeners handle play, pause, and track navigation
+- Playback progress is synchronized with the progress bar and time display
+- Playlist data and track switching control which song is played
+- CSS animations rotate the album artwork during playback
+- Accessible focus states improve keyboard navigation
 
-Author
+---
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- HTML5 Audio API
+
+---
+
+## What I Learned
+
+- Working with the HTML5 Audio API
+- Synchronizing the UI with audio playback state
+- Building dynamic interfaces using JavaScript objects
+- Managing application state
+- Creating smooth animations and transitions
+- Improving user experience with accessibility features
+
+---
+
+## Live Demo
+
+[View Live Demo](https://saurabh54e.github.io/Js-Project10-Music-Player/)
+
+---
+
+## GitHub Repository
+
+[View GitHub Repository](https://github.com/saurabh54e/Js-Project10-Music-Player/)
+
+---
+
+## Author
+
 Saurabh Singh
-B.Tech CSE (AI & ML) — Web Development | UI/UX | Robotics
 
-⭐ If you like this project, consider giving it a star!
+B.Tech CSE — Web Development | UI/UX | Robotics
+
+---
+
+## Challenge Goal
+
+Building 30 JavaScript projects in 30 days to strengthen frontend fundamentals, improve architectural thinking, and build consistently in public.
+
+---
+
+If you like this project, consider giving it a star! ⭐
