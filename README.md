@@ -55,13 +55,13 @@ The application uses JavaScript to manage audio playback, synchronize the interf
 
 ## Live Demo
 
-[View Live Demo](https://saurabh54e.github.io/Js-Project10-Music-Player/)
+(https://saurabh54e.github.io/Js-Project10-Music-Player/)
 
 ---
 
 ## GitHub Repository
 
-[View GitHub Repository](https://github.com/saurabh54e/Js-Project10-Music-Player/)
+(https://github.com/saurabh54e/Js-Project10-Music-Player/)
 
 ---
 
