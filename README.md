@@ -1,4 +1,4 @@
-🚀 Day 10/30 – Music Player Web App
+🚀 Project 10 of my 30 JavaScript Projects Challenge. – Music Player Web App
 
 Continuing my 30 Days JavaScript Challenge, I built a fully functional **Music Player Web App** using Vanilla JavaScript.
 
@@ -37,7 +37,7 @@ Next Improvements:
 - Backend integration for streaming
 
 Live
-(https://saurabh54e.github.io/Js-Day10-Music-Player/)
+(https://saurabh54e.github.io/Js-Project10-Music-Player/)
 
 Author
 Saurabh Singh
