@@ -1,6 +1,6 @@
 🚀 Project 10 of my 30 JavaScript Projects Challenge. – Music Player Web App
 
-Continuing my 30 Days JavaScript Challenge, I built a fully functional **Music Player Web App** using Vanilla JavaScript.
+Continuing my 30 Projects JavaScript Challenge, I built a fully functional **Music Player Web App** using Vanilla JavaScript.
 
 Tech Used:
 - HTML  
